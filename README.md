@@ -22,7 +22,8 @@ This project predicts the growth of users in a fitness app using mathematical mo
 Workout dataset used to simulate user behavior.
 
 ##  Output
-<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/769e70ce-0a18-49de-8adf-4a2f47f5f3d4" />
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/0800b980-3650-4d22-8b57-00f64648dde9" />
+
 
 
 ## How to Run
